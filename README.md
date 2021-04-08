@@ -1,6 +1,6 @@
 # PITCH APP
 
-This project help users to find blogs and can also comment, wednesday december, 9th, 2020
+This project help users to find blogs and can also comment, wednesday April, 8th, 2021
 
 ## By Beatrice Uwamahoro
 
@@ -28,6 +28,8 @@ This is an app that allows users to create,comment,edit and submit theblog
 5.Then run chmod +x start.sh on your project directory.
 
 6.Run ./start.sh to launch the program.
+
+7.Deployment link : https://beapitch.herokuapp.com/
 
 
 ## Technologies Used
